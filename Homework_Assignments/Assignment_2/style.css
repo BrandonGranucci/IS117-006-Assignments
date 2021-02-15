@@ -1,0 +1,31 @@
+
+h1 {
+    color: grey;
+    text-align: center;
+    font-family: Arial, Georgia, Courier;
+    font-size: 40px;
+}
+h2 {
+    color: grey;
+    text-align: center;
+    font-family: "Times New Roman", Verdana, serif;
+    font-size: 30px;
+}
+p {
+    text-align: right;
+}
+div {
+    line-height: 2.4;
+    margin-top: 20px;
+    padding-top: 40px;
+}
+menu {
+    margin-top: 100px;
+}
+menu li {
+    display:block;
+    text-align:center;
+}
+.unreadable_text {
+    font-size: 5px;
+}
